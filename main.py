@@ -1,1 +1,1 @@
-prin"Hello world i am rajeev,bye bye")
+print("Hello world i am rajeev,bye bye")
